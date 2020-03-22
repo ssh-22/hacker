@@ -29,7 +29,7 @@ docker-compose up --force-recreate
 
 ## Licence
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
+[MIT](https://github.com/ssh-22/hacker/blob/master/LICENSE)
 
 ## Author
 
