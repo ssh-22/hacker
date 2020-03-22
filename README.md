@@ -1,8 +1,6 @@
 Hacker
 ====
 
-Overview
-
 ## Description
 
 - Backend: Django, DjangoRestFrameWork
