@@ -16,6 +16,6 @@
         "terminal.integrated.shell.linux": "/bin/ash",
         "editor.formatOnSave": true
     },
-    "workspaceFolder": "./frontend/hacker",
+    "workspaceFolder": "./frontend",
     "shutdownAction": "stopCompose"
 }
