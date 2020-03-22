@@ -1,0 +1,14 @@
+# db
+db
+
+# initdb
+initdb
+
+# *.env
+*.env
+
+# Mac
+.DS_Store
+
+# dependencies
+node_modules
