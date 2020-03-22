@@ -12,3 +12,6 @@ initdb
 
 # dependencies
 node_modules
+
+# python
+__pycache__/
